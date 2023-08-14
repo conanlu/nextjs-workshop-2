@@ -1,5 +1,5 @@
 # T4SG Next.js/React Workshop 2 Activity
-Created by Conan Lu for Tech for Social Good. Reach out to conanlu@college.harvard.edu for any questions.
+Created by Conan Lu for Tech for Social Good. Reach out to conanlu [at] college.harvard.edu with any questions.
 
 ---
 
