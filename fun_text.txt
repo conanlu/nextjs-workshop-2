@@ -1,0 +1,3 @@
+NEXT_PUBLIC_SUPABASE_URL = 'https://pclxwebrmirwcslruhuz.supabase.co'
+NEXT_PUBLIC_SUPABASE_ANON_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InBjbHh3ZWJybWlyd2NzbHJ1aHV6Iiwicm9sZSI6ImFub24iLCJpYXQiOjE2ODg5Njk3MzEsImV4cCI6MjAwNDU0NTczMX0.metYwtwNuWOXwxFHRjnfQCCqQQrJ63gOrwtajh2xS6I"
+SECRET_SUPABASE_CONNECTION_STRING = "postgresql://postgres:L00natheworld!@db.pclxwebrmirwcslruhuz.supabase.co:5432/postgres"
